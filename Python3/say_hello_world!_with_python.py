@@ -33,4 +33,6 @@ Sample Output 0
 Hello, World!
 """
 
+# resolve:
+
 print("Hello, World!")
